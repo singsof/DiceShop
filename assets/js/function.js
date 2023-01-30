@@ -451,7 +451,7 @@ jQuery(($) => {
 
 $(document).ready(function () {
     $(".table-neme").DataTable({
-        dom: "lBfrtip",
+        dom: "IBfrtip",
         lengthMenu: [
             [10, 25, 50, 60, -1],
             [10, 25, 50, 60, "All"],
